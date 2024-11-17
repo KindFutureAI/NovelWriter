@@ -14,8 +14,6 @@
     "@babel/preset-react": "^7.25.9",
     "babel-loader": "^9.2.1",
     "css-loader": "^7.1.2",
-    "echarts": "^5.5.1",
-    "echarts-for-react": "^3.0.2",
     "html-webpack-plugin": "^5.6.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
